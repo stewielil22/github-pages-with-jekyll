@@ -1,11 +1,11 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: I Love Meat and Booze!
+author: StewieLil
+email: stewielil22@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  As the title suggest this is a site solely dedicated to expressing how much I love meat and booze. 
+  Steak, chicken, pork, whiskey, beer, and whatever else that gets me drunk and full.
+  
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
